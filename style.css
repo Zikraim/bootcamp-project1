@@ -1,3 +1,146 @@
-body{
-    background-image: url(images/bg-pattern-top-desktop.svg);
+body
+{ background-image: url(images/bg-pattern-top-desktop.svg);
+    background-repeat: no-repeat; 
+    background-position: center right; 
+    background-size: cover; 
+    background-attachment: fixed; 
+    display: flex;
+    flex-wrap: wrap;
+    }
+.header{ 
+        display: flex; 
+        flex-direction: column; 
+        justify-content: left; 
+        align-items: center;
+}
+.paragraph{
+        color: hsl(300, 43%, 22%);
+        font-size: 70px;
+        width:550px;
+        margin-left: 50px;
+        margin-bottom: 10px;
+    }
+.small{ 
+        color: purple;
+        width: 420px;
+        margin-left: 50px;
+        margin-bottom: 10px;
+ }
+.container-rating{ 
+        display: flex; 
+        align-items: center; 
+        flex-direction: column; 
+        margin:50px 10px 15px 100px;
+}
+.rating{
+        background-color: rgb(240, 226, 236); 
+        text-align: center; 
+        width: 300px; 
+        padding: 15px; 
+        border-radius: 10px;
+}
+.rating:nth-child(2){
+            margin-left:120px;
+}
+.rating:nth-child(3){
+            margin-left:250px;
+}
+.container{ 
+        display: flex; 
+        flex-direction: row; 
+        justify-content: center;
+}
+.container-card{ 
+            background-color:hsl(300, 43%, 22%); 
+            width: 400px; 
+            height: 300px; 
+            text-align: left;
+            border-radius: 10px; 
+            margin: 50px; 
+            color: aliceblue;
+            padding-left: 10px;
+        }
+#Irene{
+    margin-top: 80px;
+}
+#Anne{ 
+     margin-top: 160px;
+}
+.colored{
+        color:hsl(333,80%,67%);
+ }
+.container img{ 
+        border-radius: 50%;
+}
+@media (max-width: 768px) {
+
+    body {
+        background-image: url(images/bg-pattern-top-mobile.svg);
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-size: contain;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header {
+        width: 100%;
+        align-items: center;
+        text-align: center;
+    }
+
+    .paragraph {
+        font-size: 40px;
+        width: 90%;
+        margin: 40px 0 10px;
+    }
+
+    .small {
+        width: 85%;
+        margin: 10px auto;
+        text-align: center;
+    }
+
+    .container-rating {
+        width: 100%;
+        margin: 30px 0;
+        align-items: center;
+    }
+
+    .rating {
+        width: 80%;
+        margin: 10px 0;
+        padding: 15px;
+    }
+
+    .rating:nth-child(2),
+    .rating:nth-child(3) {
+        margin-left: 0;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .container-card {
+        width: 80%;
+        height: auto;
+        min-height: 250px;
+        margin: 15px 0;
+        padding: 20px;
+    }
+
+    #Irene,
+    #Anne {
+        margin-top: 15px;
+    }
+
+    .container img {
+        width: 50px;
+        height: 50px;
+    }
 }
