@@ -31,6 +31,8 @@
  -Practiced responsive wed design
 
 SCREENSHOT
+
+
 <img width="339" height="643" alt="Screenshot 2026-07-01 193256" src="https://github.com/user-attachments/assets/5c9b5bb7-cff9-4ab6-9557-6e62bf2c972e" />
 <img width="342" height="644" alt="Screenshot 2026-07-01 193305" src="https://github.com/user-attachments/assets/0258698a-8f1b-40ab-9298-3cbec629bf70" />
 <img width="344" height="571" alt="Screenshot 2026-07-01 193238" src="https://github.com/user-attachments/assets/3ac218c0-dc36-46f3-a25f-7ad5d954d228" />
