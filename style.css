@@ -1,9 +1,18 @@
 @charset "UTF-8";
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'league spartan',sans-serif;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
 body
-{ background-image: url(images/bg-pattern-top-desktop.svg);
-    background-repeat: no-repeat; 
-    background-position: center right; 
-    background-size: cover; 
+{ background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
+
+    background-repeat: no-repeat no-repeat; 
+    background-position: top left, bottom right; 
     background-attachment: fixed; 
     display: flex;
     flex-wrap: wrap;
@@ -18,27 +27,34 @@ body
         color: hsl(300, 43%, 22%);
         font-size: 70px;
         width:550px;
+        margin-top: 50px;
         margin-left: 50px;
         margin-bottom: 10px;
     }
 .small{ 
-        color: purple;
+        color:  hsl(303, 10%, 53%);
         width: 420px;
-        margin-left: 50px;
-        margin-bottom: 10px;
+        line-height: 30px;
+        margin-left: -80px;
  }
 .container-rating{ 
         display: flex; 
         align-items: center; 
         flex-direction: column; 
         margin:50px 10px 15px 100px;
+        gap: 20px;
 }
 .rating{
-        background-color: rgb(240, 226, 236); 
+        display: flex;
+        justify-content: flex-start;
+        gap: 10px;
+        background-color: hsl(300, 24%, 96%); 
+        color: hsl(300, 43%, 22%);
         text-align: center; 
-        width: 300px; 
+        width: 400px; 
         padding: 15px; 
         border-radius: 10px;
+        font-weight: bold;
 }
 .rating:nth-child(2){
             margin-left:120px;
@@ -52,25 +68,42 @@ body
         justify-content: center;
 }
 .container-card{ 
+    padding:3px;
             background-color:hsl(300, 43%, 22%); 
-            width: 400px; 
-            height: 300px; 
+            width: 380px; 
+            height: 230px; 
             text-align: left;
             border-radius: 10px; 
-            margin: 50px; 
-            color: aliceblue;
-            padding-left: 10px;
+            margin: 20px; 
+            color: hsl(300,24%,96%);
         }
+.text{
+    margin-top:30px;
+    margin-left: 20px;
+    text-align: left;
+    line-height: 24px;
+}
 #Irene{
-    margin-top: 80px;
+     margin-top: 70px;
 }
 #Anne{ 
-     margin-top: 160px;
+     margin-top: 100px;
+}
+.name{
+    text-align:center;
+    margin-top: -40px;
 }
 .colored{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
         color:hsl(333,80%,67%);
  }
 .container img{ 
+   margin-left: 50px;
+   margin-top: 30px;
+        width:50px;
+        height:50px;
         border-radius: 50%;
 }
 @media (max-width: 768px) {
@@ -134,7 +167,18 @@ body
         margin: 15px 0;
         padding: 20px;
     }
+    .name{
+    text-align:center;
+    margin-top: -40px;
+    margin-right: 0;
+}
 
+.container img{ 
+  margin-left: 0;
+        width:50px;
+        height:50px;
+        border-radius: 50%;
+}
     #Irene,
     #Anne {
         margin-top: 15px;
