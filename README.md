@@ -31,11 +31,11 @@
  -Practiced responsive wed design
 
 SCREENSHOT
+<img width="339" height="643" alt="Screenshot 2026-07-01 193256" src="https://github.com/user-attachments/assets/5c9b5bb7-cff9-4ab6-9557-6e62bf2c972e" />
+<img width="342" height="644" alt="Screenshot 2026-07-01 193305" src="https://github.com/user-attachments/assets/0258698a-8f1b-40ab-9298-3cbec629bf70" />
+<img width="344" height="571" alt="Screenshot 2026-07-01 193238" src="https://github.com/user-attachments/assets/3ac218c0-dc36-46f3-a25f-7ad5d954d228" />
+<img width="1919" height="906" alt="Screenshot 2026-07-01 193219" src="https://github.com/user-attachments/assets/82e6ad46-8def-49cc-8264-fd995ff67086" />
 
-<img width="342" height="644" alt="Screenshot 2026-07-01 193305" src="https://github.com/user-attachments/assets/6a8d7227-0079-434d-b1b1-d119c37eed07" />
-<img width="339" height="643" alt="Screenshot 2026-07-01 193256" src="https://github.com/user-attachments/assets/a4818807-15dd-4b9e-9334-859ede0905ae" />
-<img width="344" height="571" alt="Screenshot 2026-07-01 193238" src="https://github.com/user-attachments/assets/39de0998-abbb-4ab3-871d-c845d318ec1f" />
-<img width="1919" height="906" alt="Screenshot 2026-07-01 193219" src="https://github.com/user-attachments/assets/07d02ab3-538e-4e50-adcc-cafe3aa07ebf" />
 
 
 
