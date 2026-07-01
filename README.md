@@ -32,9 +32,10 @@
 
 SCREENSHOT
 
-<img width="1920" height="1020" alt="Screenshot 2026-06-28 200104" src="https://github.com/user-attachments/assets/7a737078-835e-49d4-a391-957b6b7ddb7d" />
-<img width="260" height="582" alt="Screenshot 2026-06-28 200142" src="https://github.com/user-attachments/assets/60bf2607-cc97-4189-820f-9ec2d1a76581" />
-<img width="274" height="581" alt="Screenshot 2026-06-28 200130" src="https://github.com/user-attachments/assets/b219c249-2f7d-4a87-978c-ce6efb8886e9" />
+<img width="339" height="643" alt="Screenshot 2026-07-01 193256" src="https://github.com/user-attachments/assets/a23f6682-f99f-4a87-9aba-0e19745e35b6" />
+<img width="344" height="571" alt="Screenshot 2026-07-01 193238" src="https://github.com/user-attachments/assets/89cdd13d-fea3-4b87-971c-1de9a1177bcd" />
+<img width="1919" height="906" alt="Screenshot 2026-07-01 193219" src="https://github.com/user-attachments/assets/ee72b04f-9633-4140-ae01-33d0fd646708" />
+<img width="342" height="644" alt="Screenshot 2026-07-01 193305" src="https://github.com/user-attachments/assets/fcfb0940-3f80-418f-a702-b426d663a01e" />
 
 
 
